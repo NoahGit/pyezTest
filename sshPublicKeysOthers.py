@@ -19,7 +19,7 @@ pw = None
 key_file = './id_rsa_mx80'
 
 if filenamePath == None:
-    filenamePath = input("Enter filenamePath:") #需要输入存ip地址的txt文件路径,比如E:\djangoProject\pyezTest\inventory.txt
+    filenamePath = input("Enter filenamePath:") #需要输入存ip地址的txt文件路径,比如(E:\djangoProject\pyezTest\inventory.txt)
 if uname == None:
     uname = input("Username:")
 if pw == None:
